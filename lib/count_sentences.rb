@@ -1,5 +1,5 @@
  def sentence?
-    self.end_with?(".")
+    sentence.end_with?(".")
   end
 
 #   def question?
